@@ -14,4 +14,4 @@
 | نقشه مشهد آفلاین‎ | [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.mashhadoffline&rdid=ir.tatcomputer.mashhadoffline) | ناقض کپی رایت | ۷.۴ | ۲۷ فروردین ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | نقشه کامل ایران| [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.iranofflineaio&rdid=ir.tatcomputer.iranofflineaio) | ناقض کپی رایت | ۱.۰ | ۱۱ آذر ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | [جاباما](https://www.jabama.com)‎ | - | ناقض کپی رایت | - | - | ۸ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
-| [بیدود](http://bdood.ir) | - | ناقص | - | - | ۸ دی ۹۷ | تنها از leaflet نام برده شده که غیرقابل قبول می‌باشد. باید بطور کامل نام OpenStreetMap را در ادامه‌ی اسم leaftlet بیاورند. |
+| [بیدود](http://bdood.ir) | - | رعایت کامل کپی‌رایت | - | - | ۹ دی ۹۷ | در سایت بیدود کپی‌رایت بطور کامل رعایت شده |
