@@ -15,3 +15,4 @@
 | نقشه کامل ایران| [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.iranofflineaio&rdid=ir.tatcomputer.iranofflineaio) | ناقض کپی رایت | ۱.۰ | ۱۱ آذر ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | [جاباما](https://www.jabama.com)‎ | - | ناقض کپی رایت | - | - | ۸ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | [بیدود](http://bdood.ir) | - | رعایت کامل کپی‌رایت | - | - | ۹ دی ۹۷ | در سایت بیدود کپی‌رایت بطور کامل رعایت شده |
+| [اسنپ](https://snapp.ir/)| [لینک](https://play.google.com/store/apps/details?id=cab.snapp.passenger.play) | رعایت کامل کپی‌رایت | ۳.۷.۰ | ۲۹ مرداد ۹۷ | ۹ دی ۹۷ | در برنامه اسنپ کپی‌رایت بطور کامل رعایت شده |
