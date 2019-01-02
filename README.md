@@ -17,3 +17,5 @@
 | [بیدود](http://bdood.ir) | - | رعایت کامل کپی‌رایت | - | - | ۹ دی ۹۷ | در سایت بیدود کپی‌رایت بطور کامل رعایت شده |
 | [اسنپ](https://snapp.ir/)| [لینک](https://play.google.com/store/apps/details?id=cab.snapp.passenger.play) | رعایت کامل کپی‌رایت | ۳.۷.۰ | ۲۹ مرداد ۹۷ | ۹ دی ۹۷ | در برنامه اسنپ کپی‌رایت بطور کامل رعایت شده |
 | [باحساب](https://www.bahesab.ir/)| - | کاملا ناقض کپی‌رایت | - | - | ۹ دی ۹۷ | نه فقط کپی‌رایت را رعایت نکردن بلکه هیچ اطلاعات تماسی در سایت نگذاشتن. همچنین در توضیح صفحه مربوط به نقشه، به جای نام بردن از OpenStreetMap، از گوگل نام بردن که خود نکته‌ی بسیار جالبیست. |
+| [ایوا](http://www.ivaapp.com/) | [لینک](https://play.google.com/store/apps/details?id=com.sadadpsp.eva&referrer=ts%3D77220dd6-0e4a-11e9-bc5d-0cc47aa89065) | ناقض کپی رایت | ۱.۰.۴۹ | ۱۱ دی ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
+| [آسان‌پرداخت - آپ](http://app.733.ir/) | [لینک](https://play.google.com/store/apps/details?id=com.sibche.aspardproject.app) | ناقض کپی رایت | ۲.۸.۱ | ۲۵ آذر ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
