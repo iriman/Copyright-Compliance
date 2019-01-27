@@ -20,3 +20,4 @@
 | [ایوا](http://www.ivaapp.com/) | [لینک](https://play.google.com/store/apps/details?id=com.sadadpsp.eva&referrer=ts%3D77220dd6-0e4a-11e9-bc5d-0cc47aa89065) | ناقض کپی رایت | ۱.۰.۴۹ | ۱۱ دی ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | [آسان‌پرداخت - آپ](http://app.733.ir/) | [لینک](https://play.google.com/store/apps/details?id=com.sibche.aspardproject.app) | ناقض کپی رایت | ۲.۸.۱ | ۲۵ آذر ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | [مانیشن](https://www.manishen.com) | - | ناقص | - | - | ۷ بهمن ۹۷ | تنها از leaflet نام برده شده که غیرقابل قبول می‌باشد. باید بطور کامل نام OpenStreetMap را در ادامه‌ی اسم leaftlet بیاورند. |
+| [سروش](https://soroush-app.ir) | - | ناقض کپی‌رایت | ۲.۸.۰ | ۷ بهمن ۹۷| ۷ بهمن ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده.  |
