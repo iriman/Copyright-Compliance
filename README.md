@@ -20,6 +20,7 @@
 | [شاتل موبایل](https://shatelmobile.ir) | - | رعایت کامل کپی‌رایت| - | - | ۱۶ اسفند ۹۷ | در سایت شاتل موبایل کپی‌رایت بطور کامل رعایت شده | - | - |
 | [سامانه مدیریت اطلاعات سوانح DMIS](http://www.rarodmis.ir/hadese/map/lcd1.php) | - | رعایت کامل کپی‌رایت | - | - | ۲۴ اردیبهشت ۹۸ | در سایت سامانه مدیریت اطلاعات سوانح DMIS کپی‌رایت بطور کامل رعایت شده | - | - |
 | [سرزمین موجهای آبی](http://wwlpark.com/) | - | رعایت کامل کپی‌رایت | - | - | ۲۵ اردیبهشت ۹۸ | در سایت سرزمین موجهای آبی کپی‌رایت بطور کامل رعایت شده | - | - |
+| [جاباما](https://www.jabama.com)‎ | - | رعایت کامل کپی‌رایت | - | - | ۲۵ اردیبهشت ۹۸ | در سایت جاباما کپی‌رایت بطور کامل رعایت شده | اطلاع داده شده | - |
 
 
 ## رعایت نشده
@@ -30,7 +31,6 @@
 | [نقشه آفلاین](http://nbx.ir/)‎ | [لینک](https://play.google.com/store/apps/details?id=ir.nbx.maps&rdid=ir.nbx.maps) | ناقض کپی رایت | ۲.۰ | ۳۱ مرداد ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
 | نقشه مشهد آفلاین‎ | [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.mashhadoffline&rdid=ir.tatcomputer.mashhadoffline) | ناقض کپی رایت | ۷.۴ | ۲۷ فروردین ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
 | نقشه کامل ایران| [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.iranofflineaio&rdid=ir.tatcomputer.iranofflineaio) | ناقض کپی رایت | ۱.۰ | ۱۱ آذر ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
-| [جاباما](https://www.jabama.com)‎ | - | ناقض کپی رایت | - | - | ۸ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
 | [ایوا](http://www.ivaapp.com/) | [لینک](https://play.google.com/store/apps/details?id=com.sadadpsp.eva&referrer=ts%3D77220dd6-0e4a-11e9-bc5d-0cc47aa89065) | ناقض کپی رایت | ۱.۰.۴۹ | ۱۱ دی ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | - | - |
 | [آسان‌پرداخت - آپ](http://app.733.ir/) | [لینک](https://play.google.com/store/apps/details?id=com.sibche.aspardproject.app) | ناقض کپی رایت | ۲.۸.۱ | ۲۵ آذر ۹۷ | ۱۲ دی ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
 | [سروش](https://soroush-app.ir) | - | ناقض کپی‌رایت | ۲.۸.۰ | ۷ بهمن ۹۷| ۷ بهمن ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده.  | اطلاع داده شده | - |
