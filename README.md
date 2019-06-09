@@ -58,3 +58,4 @@
 | [اسنپ](https://snapp.ir/)| [لینک](https://play.google.com/store/apps/details?id=cab.snapp.passenger.play) | ناقص | با هر دستگاه متفاوت است | ۲۹ اسفند ۹۷ | ۲۵ فروردین ۹۸ | در برنامه اسنپ کپی‌رایت بطور کامل رعایت شده اما در وبسایت کپی‌رایت رعایت نشده است. | - | - |
 | [ده‌گشت](https://www.dehgasht.com) | - | ناقص | - | - | ۲۴ اردیبهشت ۹۸ | تنها از leaflet نام برده شده که غیرقابل قبول می‌باشد. باید بطور کامل نام OpenStreetMap را در ادامه‌ی اسم leaftlet بیاورند. | - | - |
 | [سامانه مدیریت اطلاعات سوانح DMIS LCD1](http://www.rarodmis.ir/hadese/map/lcd1.php) | - | ناقض کپی‌رایت | - | - | ۲۴ اردیبهشت ۹۸ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | - | - |
+| [سامانهٔ عیان شهرداری اراک](http://ayan.arak.ir/shahrsazi/building_rules.php) | - | ناقض کپی‌رایت | - | ۱۹ خرداد ۹۸ | ۱۹ خرداد ۹۸ | به هیچ شکلی نامی از OpenStreetMap برده نشده. | اطلاع داده شده | - |
